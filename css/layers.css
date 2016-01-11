@@ -408,8 +408,8 @@ website:   	http://www.themepunch.com
 .tp-caption.lightgrey_divider,.lightgrey_divider
 {
 	background-color:rgba(235,235,235,1);
-	background-position:initial initial;
-	background-repeat:initial initial;
+	/*background-position:initial initial;*/
+	/*background-repeat:initial initial;*/
 	border-color:#222;
 	border-style:none;
 	border-width:0;
@@ -421,9 +421,7 @@ website:   	http://www.themepunch.com
 .tp-caption.large_bold_darkblue,.large_bold_darkblue
 {
 	background-color:transparent;
-	border-color:#ffd658;
-	border-style:none;
-	border-width:0;
+	border: 0 none #ffd658;
 	color:#34495e;
 	font-family:"Open Sans";
 	font-size:58px;
