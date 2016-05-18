@@ -1,6 +1,6 @@
 # comicbanner
 
-ashikul.github.io/comicbanner
+[Demo] (ashikul.github.io/comicbanner)
 
 Slider revolution demo for a comic book website
 
